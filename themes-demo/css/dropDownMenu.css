@@ -1,0 +1,18 @@
+.listMenu{
+    display: flex;
+    list-style: none;
+    background: #ddd;
+    padding: 0;
+}
+
+.listMenu .menuItem {
+    padding: 5px;
+}
+
+.listMenu .menuItem a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+

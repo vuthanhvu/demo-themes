@@ -1,0 +1,19 @@
+.share-list {
+    display: flex; 
+    background-color: #ddd;
+}
+
+.shareItem {
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+.item-faq {
+    text-transform: uppercase;
+}
+
+.shareItem a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}

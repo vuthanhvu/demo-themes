@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img {
+    width: 100%;
+    height: 400px;
+}
+
+.blockImg {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-column-gap: 30px;
+    order: 0;
+}
+
+.blockImg-1 {
+    position: relative;
+
+}
+
+.blockImg-1 span {
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    color: #fff;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+
+.itemImg-2 span {
+    top: 45%;
+    left: 10%;
+    color: gray;
+}
+
+.barSelect{
+    border-radius: 4px;
+}

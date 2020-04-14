@@ -1,0 +1,20 @@
+.freeShipItem {
+    display: flex; 
+  
+}
+
+.content-freeShip {
+    margin-left: 5px;
+
+}
+.content-freeShip p:first-child{
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.content-freeShip p:last-child{
+    text-transform: capitalize;
+    margin: 0;
+    color: #aaa;
+    font-size: 12px;
+}
