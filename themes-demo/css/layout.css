@@ -80,8 +80,9 @@ img {
     padding: 0 10px;
 }
 
-.listMenu .menuItem a {
-    color: #fff;
+.menuBlock a{
+    color: #000;
+    color: #000;
     text-transform: capitalize;
     font-size: 20px;
     font-weight: 200;
